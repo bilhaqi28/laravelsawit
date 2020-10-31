@@ -1,0 +1,5 @@
+1.tb_rek crud
+2. all table hanya menampilkan data dengan relasi
+3. login
+4. template admin
+5.tb sawit tidak di pakai

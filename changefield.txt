@@ -1,0 +1,7 @@
+Tinjauan Kembali
+
+tb_pembelian->status_pembelian
+kode : 0 -> belum bayar
+       1 -> cek bukti pembayaran
+       2 -> sedang di proses
+       3 -> selesai
